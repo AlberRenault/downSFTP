@@ -1,9 +1,3 @@
-# Ignorar archivos de configuración
-   
-
-# Ignorar directorios
-   /downloads
-
-# Ignorar archivos específicos
-   config.json
-   descarga_sftp.log
+/downloads
+config.json
+descarga_sftp.log
